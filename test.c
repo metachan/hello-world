@@ -1,2 +1,3 @@
 just test
-add master test
+add a line
+>>>>>>> testing
